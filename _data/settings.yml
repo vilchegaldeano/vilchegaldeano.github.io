@@ -1,0 +1,132 @@
+---
+#-------------------------------
+# General Site Settings
+
+title: Vilche & Galdeano
+logo:  "assets/images/clients-logo/logo-principal.png"
+author: themefisher
+description: this is meta description
+email: vilche.galdeano@gmail.com
+phone: +54 2612388648
+address: Centro Empresarial Torreón, Piso 1, Oficina 4, Maipú,
+
+
+menu:
+  - { name: Conócenos, link: "/about" }
+  #- { name: Servicios, link: "/services" }
+  #- { name: Portfolio, link: "/portfolio" }
+  - { name: Contacto, link: "/contact" }
+
+#-------------------------------
+# Google Analytics Section
+
+# Analytics helps you understand who visits your website.
+# Learn more at: http://support.google.com/analytics/answer/1008065
+
+# NOTE: If you want to use Google Analytics for basic web tracking: Just uncomment and enter your UA-Code here.
+
+#google-analytics: # UA-XXXXXX-X
+
+#-------------------------------
+# Comment Section (Disqus)
+
+#disqus-identifier: # Add your shortname for Disqus Comment. For example mr-brown
+
+#-------------------------------
+# Hero Section
+
+#hero:
+#  hero-title: Hi! I’m <br> Christoher <br> UX designer
+
+social:
+#  - { icon: "ti-linkedin", link: "#" }
+  - { icon: "ti-instagram", link: "" }
+#  - { icon: "ti-dribbble", link: "#" }
+#  - { icon: "ti-twitter", link: "#" }
+
+#-------------------------------
+# About (Section and Page)
+
+# About Section
+blurb: En Vilche & Galdeano, nos dedicamos al asesoramiento integral para empresas, ofreciendo soluciones personalizadas en áreas legal, contable y tributaria. Con un equipo de profesionales calificados y con experiencia en el sector, nos comprometemos a brindarle un servicio de calidad y confianza.
+blurb-btn-link: "/about"
+blurb-btn-name: + info
+
+# About Page
+
+# Work Process Section
+work-process:
+  - title: "Compromiso"
+    icon: "assets/images/icons/design.png"
+    content: "Nos especializamos en ofrecer soluciones integrales en materia de contabilidad, gestión laboral y fiscalidad para tu negocio, todo dentro del marco legal. Nuestro compromiso es brindarte un servicio de calidad, eficiencia y confianza, para que puedas concentrarte en hacer crecer tu empresa sin preocupaciones."
+
+  - title: "Capacidad"
+    icon: "assets/images/icons/capa.png"
+    content: "Creemos firmemente en el poder de la colaboración interdisciplinaria. Nuestro enfoque se centra en desplegar una labor que integre las distintas áreas de conocimiento, potenciando así el talento y la creatividad de nuestro gran equipo de profesionales."
+
+  - title: "Tecnología"
+    icon: "assets/images/icons/tecno.png"
+    content: "Nos dedicamos apasionadamente a desarrollar soluciones innovadoras que automatizan procesos, brindando beneficios tangibles a nuestros clientes. Nuestro enfoque se centra en eliminar errores, reducir costos y facilitar el acceso rápido y seguro a la información."
+
+  - title: "Paz Mental"
+    icon: "assets/images/icons/paz.png"
+    content: "Estamos aquí para optimizar tu negocio de modo que puedas delegar tus asuntos económicos y legales, con total confianza y seguridad. Nuestro objetivo es encargarnos de optimizar tus recursos y proteger tu patrimonio, permitiéndote enfocarte en lo que mejor sabes hacer: hacer crecer tu empresa."
+
+#-------------------------------
+# Exprerience Section
+
+experience-title: Planes Flexibles
+experience-description: "Entendemos que cada empresa es única, por lo que adaptamos nuestras soluciones a las necesidades especificas de cada negocio, asegurando resultados óptimos y satisfactorios. Garantizando así una gestión empresarial sólida y conforme a la normativa vigente.<br>
+<br>
+Ofrecemos el análisis inicial de gestión totalmente <strong>GRATIS</strong> y al momento de la contratación queda bonificado por 3 meses al 50%."
+experience:
+  - {
+      name: PLAN <br>EMPRENDEDOR,
+      icon: "icon-1.png",
+    }
+  - {
+      name: PLAN <br>PYMES,
+      icon: "icon-2.png",
+    }
+  - {
+      name: PLAN <br>GOLD,
+      icon: "icon-3.png",
+    }
+
+#-------------------------------
+# Services Section
+
+services-title: Servicios
+services:
+  - {
+      name: Asesoramiento Legal,
+      icon: ti-files,
+      description: "
+        Nuestros abogados ofrecen asesoramiento, para garantizar que las organizaciones cumplan con las leyes aplicables y protejan sus intereses legales en diversas circunstancias.
+        Reconocemos que cada caso es único. Trabajamos con nuestros clientes para desarrollar estrategias legales que se adapten a las necesidades y objetivos de cada uno.
+        ",
+      active: true,# Add true to select section
+    }
+  - {
+      name: Asesoramiento Contable,
+      icon: ti-bar-chart,
+      description: "
+        Comprendemos la importancia de una gestión contable precisa y eficiente, para garantizar que las empresas mantengan una sólida salud financiera.
+        Nuestro equipo de profesionales contables, ofrece un asesoramiento para poder cumplir las obligaciones fiscales, que permitirán la toma de decisiones estratégicas confiables.
+      ",
+      active: , # Add true to select section
+    }
+  - {
+      name: Asesoramiento Tributario,
+      icon: ti-archive,
+      description: "Entendemos que el asesoramiento tributario es fundamental para garantizar el cumplimiento fiscal y generar tranquilidad financiera.
+      Nuestro equipo esta capacitado para poder brindarle la orientación necesaria para cumplir con sus obligaciones y desligarse de esta tarea que para muchas empresas es compleja y abrumadora.",
+      active: true,# Add true to select section
+    }
+
+#-------------------------------
+# Contact Section
+
+contact-title: Contáctanos para comenzar a construir un futuro financiero sólido y seguro para tu empresa
+#contact-title-sub: Contáctanos hoy mismo para una consulta personalizada y descubre cómo podemos ayudarte a alcanzar tus objetivos empresariales con éxito
+contact-email: vilchegaldeano2@gmail.com
